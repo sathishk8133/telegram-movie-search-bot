@@ -12,33 +12,33 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Mahesh0253/Media-Search-bot",
-    "repository": "https://github.com/Mahesh0253/Media-Search-bot",
+    "website": "https://github.com/sathishk8133/telegram-movie-search-bot",
+    "repository": "https://github.com/sathishk8133/telegram-movie-search-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
-            "value": ""
+            "value": "6678342781:AAGLH8UWZ7iBIbwII0mjMYE8ESNCTrg28t4"
         },
         "USERBOT_STRING_SESSION": {
             "description": "User bot string session.",
-            "value": "",
+            "value": "Movie Search",
             "required": false
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "21102617"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "31de0d24a6b8048c48730bc420f4b70c31de0d24a6b8048c48730bc420f4b70c"
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
-            "value": ""
+            "value": "1001963036511"
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": ""
+            "value": "6300568870"
         },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
